@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Embedded Style Sheet</title>
+<style>
+
+  .ingo_login_widget_register_manual_link {
+    font-weight: bold;
+
+  }
+</style>
+</head>
+</html>
